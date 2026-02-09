@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Pokemon Battle Simulator – Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React App that simulates Pokemon battles. Built with React and TypeScript. 
+This App uses https://github.com/xpuc7o/pokemon-battle-sim as a backend API.
 
 ## Available Scripts
 
